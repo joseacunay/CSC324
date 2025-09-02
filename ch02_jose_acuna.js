@@ -1,8 +1,9 @@
-// jose
 
 // looping a triangle
 /* About imagen */
-// Ejercicios del capítulo 2 de Eloquent JavaScript
+// Exercises of chap 2 de Eloquent JavaScript
+// Author: Jose Acuna
+// Class: Web Programming
 
 // 2.1 Looping a Triangle
 let triangle = "roma";
@@ -41,8 +42,3 @@ for (let y = 0; y < size; y++) {
   }
   board += "\n";
 }
-console.log(board);
-
-
-
-console.log("Rama".length)
