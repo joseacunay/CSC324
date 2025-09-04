@@ -1,7 +1,7 @@
 
-console.log("%cExercises of chap 2 de Eloquent JavaScript", "font-weight: bold");
-console.log("%cAuthor: Jose Acuna", "font-weight: bold");
-console.log("%cClass: Web Programming", "font-weight: bold");
+// Exercises of chap 2 de Eloquent JavaScript
+// Author: Jose Acuna
+// Class: Web Programming
 
 // 2.1 Looping a Triangle
 let triangle = "roma"; // Declares a variable named triangle and assigns it the string "roma"
