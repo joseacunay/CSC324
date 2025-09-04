@@ -1,6 +1,4 @@
 
-// looping a triangle
-/* About imagen */
 // Exercises of chap 2 de Eloquent JavaScript
 // Author: Jose Acuna
 // Class: Web Programming
@@ -42,3 +40,4 @@ for (let y = 0; y < size; y++) {
   }
   board += "\n";
 }
+console.log(board); // show the chessboard
