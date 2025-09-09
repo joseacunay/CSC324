@@ -16,7 +16,7 @@ console.log(min(20, 7));
 
 //3.2 Recursion
 function isEven(n) { // Function that differentiates between even and odd numbers
-  if (n === 0) {
+  if (n ===0 ) {
     return true;   // if n is equal to 0 is even
   } else if (n === 1) {
     return false;  // if n is equal to 1 is odd
