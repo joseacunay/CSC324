@@ -3,6 +3,7 @@
 // Class: Web Programming
 
 //3.1 Minimun
+console.log("\nExcercise  3.1: Minimun"); //Print Title
 function min(a, b) { //Create a function call min and 
   if (a < b) { //Compared "a" and "b". If "a" is greater than "b"
     return a; //Show "a" if "a" is greater than "b"
@@ -15,6 +16,7 @@ console.log(min(5, 10));
 console.log(min(20, 7));
 
 //3.2 Recursion
+console.log("\nExcercise  3.2: Recursion"); //Print Title
 function isEven(n) { // Function that differentiates between even and odd numbers
   if (n ===0 ) {
     return true;   // if n is equal to 0 is even
@@ -23,7 +25,7 @@ function isEven(n) { // Function that differentiates between even and odd number
   } else if (n < 0) {
     return isEven(-n); // Corrects negative numbers, so negative by negative would give a positive number
   } else {
-    return isEven(n - 2); // caso recursivo
+    return isEven(n - 2); // Recursive case
   }
 }
 console.log(isEven(50));  // true
