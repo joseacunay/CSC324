@@ -28,7 +28,24 @@ function isEven(n) { // Function that differentiates between even and odd number
     return isEven(n - 2); // Recursive case
   }
 }
-console.log(isEven(50));  // true
-console.log(isEven(75));  // false
-console.log(isEven(-1));  // false
+console.log(isEven(50));  // Response should be "true"
+console.log(isEven(75));  // Response should be "false"
+console.log(isEven(-1));  // Response should be "false"
+
+//3.3 Bean counting
+console.log("\nExcercise  3.3: Bean Counting"); //Print Title
+function countChar(str, char) { // Define a function named countChar that takes two parameters
+  let count = 0; // Initialize a counter variable "count" to 0. 
+  for (let i = 0; i < str.length; i++) { // Start a loop that goes through each character of the string."i" begins at 0, continues while "i" is less than the string length, 
+    if (str[i] === char) { // Check if the current character (str[i]) is equal to "char".
+    count++;// If it is, add 1 to the counter.
+    }
+  }
+return count;// After the loop finishes, return the final value of "count".
+}
+function countBs(str) {// Define a new function named countBs that takes one parameter "str".
+  return countChar(str, "B"); // Call countChar, but always look for the uppercase letter "B".
+}
+console.log(countBs("BOB"));// Print
+console.log(countChar("kakkerlak", "k")); //Print
 
