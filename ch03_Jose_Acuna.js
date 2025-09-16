@@ -46,6 +46,6 @@ return count;// After the loop finishes, return the final value of "count".
 function countBs(str) {// Define a new function named countBs that takes one parameter "str".
   return countChar(str, "B"); // Call countChar, but always look for the uppercase letter "B".
 }
-console.log(countBs("BOB"));// Print
+console.log(countBs("BOBbbbbbbBB"));// Print
 console.log(countChar("kakkerlak", "k")); //Print
 
