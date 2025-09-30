@@ -24,7 +24,7 @@ class Group { //Creates a new class called Group.
     return this.members.includes(value); // Return true if value is in the group
   }
 
-  static from(iterable) {
+  static from(iterable) {// Making a group from a list of values
     let group = new Group(); // Make a new empty group
     for (let item of iterable) { // Go through each value in the iterable
       group.add(item);// Add each value to the group
