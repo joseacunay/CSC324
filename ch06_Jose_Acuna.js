@@ -2,7 +2,8 @@
 // Author: Jose Acuna
 // Class: Web Programming
 
-
+//6. Group
+console.log("\nExcercise 6. : Group"); //Print Title
 class Group { //Creates a new class called Group.
   constructor() {
     this.members = []; // Start with an empty array to save values
@@ -32,10 +33,10 @@ class Group { //Creates a new class called Group.
   }
 }
 
-let group = Group.from([10, 20]);   // Make a group with 10 and 20
-console.log(group.has(10));         // → true (10 is inside the group)
-console.log(group.has(30));         // → false (30 is not in the group)
-group.add(10);                      // Does nothing (10 is already inside)
-group.delete(10);                   // Removes 10 from the group
-console.log(group.has(10));         // → false (10 is gone now)
+let group = Group.from([10, 20]);// Make a group with 10 and 20
+console.log(group.has(10)); // → true (10 is inside the group)
+console.log(group.has(30));// → false (30 is not in the group)
+group.add(10);// Does nothing (10 is already inside)
+group.delete(10);// Removes 10 from the group
+console.log(group.has(10));// → false (10 is gone now)
 
