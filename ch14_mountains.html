@@ -75,10 +75,15 @@
     console.log(headerRow.firstChild.innerText);
 
     // function to make a table row:
-    function makeTableRow(obj) {
-      // TODO
+function makeTableRow(obj) {
+const row = document.createElement ("tr");
+for (let columnName in Object.keys(obj)) {
+const data = document. createElement ("td");
+data.innerText = obj [columnName];
+row.appendChald (data) ;
+return row;
     }
-
+}
     
   </script>
 </html>

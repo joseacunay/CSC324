@@ -16,10 +16,13 @@ const artists = [
 ];
 
 // Select the table using its ID
-const table = document.getElementById("bhangra");
+const table = document.getElementById("bhangra"); //Select the HTML table with the id="bhangra" 
+// attribute and save it to the table variable. This allows us to manipulate the table from JavaScript.
+// Similiar to QuerySelector
+
 
 // Create the table header
-const headerRow = document.createElement("tr");
+const headerRow = document.createElement("tr"); // Create a header row
 for (let key of Object.keys(artists[0])) {
   const th = document.createElement("th");
   th.textContent = key;
@@ -30,7 +33,7 @@ table.appendChild(headerRow);
 // Fill the table with the artists' data
 
 for (let artist of artists) {
-  const row = document.createElement("tr");
+  const row = document.createElement("tr"); // For each artist, create a new row (<tr>) to enter their data.
 
   for (let key in artist) {
     const cell = document.createElement("td");
