@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <div class="horizontal-scroll">
+    {{ range (split .Content "<p>") }}
+      {{ if . }}
+      <section class="section-content cf ph3 ph5-l pv3 pv4-l f4 tc-l center lh-copy mid-gray">
+        <p>{{ . | safeHTML }}</p>
+      </section>
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}
