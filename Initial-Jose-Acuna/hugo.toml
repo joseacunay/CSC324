@@ -87,13 +87,13 @@ profilelink = "mailto:tridentmoonyoga@gmail.com"
 
 [[menu.main]]
   identifier = "about"
-  name = "Landscape"
+  name = "Exercises"
   url = "/about/"
   weight = 2 
 
 
 [[menu.main]]
   identifier = "articles"
-  name = "Ecology Natural Parks"
+  name = "About Jose"
   url = "/parks/"
   weight = 3 

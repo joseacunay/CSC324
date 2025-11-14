@@ -1,5 +1,5 @@
 ---
-title: Natural Landscapes
+title: Exercises
 description: ""
 omit_header_text: false
 featured_image: /images/imagen3.jpeg
@@ -7,9 +7,11 @@ type: page
 summary:  "Ashtanga, pranayama, Sanskrit, meditation, Georgetown Kentucky.  Homer White"
 ---
 
-## My First Teachers
+## Reversing an Array
 
-<img class="image-left-250" src="/images/hittleman.jpeg">One's parents are one's first--and hopefully best-- teachers.  From my father I acquired a love of science and mathematics.  My mother took up Yoga in 1971 when I was eight years old.  (I remember thumbing through her copy of Richard Hittleman's *Yoga:  A 28-Day Exercise Plan* and trying out the postures, imitating what I imagined to be the practices of sages in the mountains and forests of Eastern lands.)  Together the two of them fostered a home-environment that was perhaps unusual among Southern familes of that generation:  rationalist, humanist, and religiously free-thinking, albeit with a slight New Age twist.
+<img class="image-left-250" src="/images/ar.png"> Arrays have a reverse method that changes the array by inverting the order in which its elements appear. For this exercise, write two functions, reverseArray and reverseArrayInPlace. The first, reverseArray, should take an array as its argument and produce a new array that has the same elements in the inverse order. The second, reverseArrayInPlace, should do what the reverse method does: modify the array given as its argument by reversing its elements. Neither may use the standard reverse method.
+
+Thinking back to the notes about side effects and pure functions in the previous chapter, which variant do you expect to be useful in more situations? Which one runs faster?.
 
 A dream that I experienced several times as a child expresses the interplay between Reason and Mystery that my parents hoped I would grow up to explore:
 
