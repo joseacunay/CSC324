@@ -1,42 +1,32 @@
 ---
-title: Exercises
+title: About Jose
 description: ""
 omit_header_text: false
-featured_image: /images/imagen3.jpeg
+featured_image: /images/bq.avif
 type: page
-summary:  "Ashtanga, pranayama, Sanskrit, meditation, Georgetown Kentucky.  Homer White"
 ---
 
-## Reversing an Array
+## Who am i?
 
-<img class="image-left-250" src="/images/ar.png"> Arrays have a reverse method that changes the array by inverting the order in which its elements appear. For this exercise, write two functions, reverseArray and reverseArrayInPlace. The first, reverseArray, should take an array as its argument and produce a new array that has the same elements in the inverse order. The second, reverseArrayInPlace, should do what the reverse method does: modify the array given as its argument by reversing its elements. Neither may use the standard reverse method.
+<img class="image-left-250" src="/images/yo.jpeg"> My name is Jose, I am 28 years old. I was born and raised in Barranquilla, Colombia, a city I love and where I plan to live my whole life...
 
-Thinking back to the notes about side effects and pure functions in the previous chapter, which variant do you expect to be useful in more situations? Which one runs faster?.
+I've been playing volleyball since I was 14. It's a sport that has taught me much of what I know about life today, and has taken me to more than 20 countries around the world.
 
-A dream that I experienced several times as a child expresses the interplay between Reason and Mystery that my parents hoped I would grow up to explore:
 
->Early in the morning, when it is still quite dark, I slip out of the house, having resolved to explore "to its very end" the forest that borders our backyard.  In time, as dawn gives way to morning, I leave behind the gentle rolling pine-needled hills of the Carolina Piedmont and the terrain becomes progressively steeper:  I am walking up a mountain that is completely embedded in this forest.  At the ridge-top the forest ends abruptly:  the downward slope is all grassy meadow, and glistens under the late-morning sun.  A great stone city fills the valley below.  Moss and ivy overgrow its dwellings, courtyards, and fountains, giving an impression of deep antiquity.  Yet the city is well-populated and pulses with quiet, intense life.  Its inhabitants are clad in wizard-robes, and they are of two types:  Scientists and Sages.  The Scientists fashion large spherical crystal balls; the Sages peer into them.
+### Academic Life
 
-## Encountering the Practice
+<img class="image-right-250" src="/images/yo.HEIC">I attended high school in Barranquilla, Colombia, at the Escuela Normal Superior La Hacienda. My education there focused on pedagogy and teaching.
 
-I will always be grateful to <a href="https://ashevilleyogacenter.union.site/teachers/deirdre-smith-gilmer" target="_blank">Deirdre Smith Gilmer</a> for showing me and a few colleages the Primary Series when we taught together in the summer of 1998 at the North Carolina Governor's School.  At that time Deirdre was a student of Eddie Stern in New York City.  Eddie in turn was a student of Sri K Patabhi Jois of Mysore, India.
+Afterward, I graduated from the <a href="https://www.uac.edu.co/pregrado/ingenieria-mecatronica/" target="_blank">Universidad Autónoma del Caribe </a> with a degree in Mechatronics Engineering, where I developed a passion for industrial automation and robotics.
 
-## Further Studies
+Currently, I am currently pursuing a double major in Project Management and Web Design, and a double minor in Data Science and Computer Science at Georgetown College.
 
-<img class="image-right-250" src="/images/ashtavakra.jpeg">Like many other serious students of Aṣṭāṅga, I soon became interested in the history of the practice and in the Indian philosophical systems and religious communities in which Yoga developed.  While on sabbatical in the 2002-2003 academic year I had the good fortune to begin the study of Sanskrit with <a href="https://en.wikipedia.org/wiki/Christopher_Minkowski" target="_blank">Christopher Minkowski</a>.  Originally a specialist in Vedic ritual studies, Chris was beginning to look into the history of mathematics and related knowledge-systems in pre-British India.  From time to time the two of us would meet to translate passages from the *Lïlāvatī*, a classic Sanskrit mathematical text:  Chris would help me with the language and I would explain the mathematical concepts to him; it was a lovely exchange.  Sanskrit got me doing my own small-scale work in the history of Indian mathematics; in this regard I benefitted very much from the advice of another academician, the American historian of mathematics <a href="https://www.union.edu/mathematics/faculty-staff/kim-plofker" target="_blank">Kim Plofker</a>.
+### Work History
 
-## Teaching
+<img class="image-right-250" src="/images/yo3.jpeg">My first job was with the computer company Lenovo, where I remotely provided support for computers under warranty. Thanks to my good performance, they promoted me to the customer satisfaction survey department, where I worked remotely with teams from different parts of the world to improve the company's customer service.
 
-### Aspirations
+I left Lenovo and went to another company more focused on engineering,<a href="https://www.petromil.com" target="_blank"> Petromil Gas </a>. There, I started by providing consumption reports for gas stations and was promoted to sales agent for the gas division, selling to major power generators in Colombia. I was with that company for about two years, where I was recognized for my excellent work in finding commercial and strategic partners for the company's growth.
 
-<img class="image-left-250" src="/images/urdhvakukuttasana.jpg">Over the years I have taught Aṣṭāṅga in the form of a physical education course at the small liberal arts college where I teach, and privately to individuals who have expressed an interest in it.  Aṣṭāṅga has been the cornerstone of my physical health, has inspired a series of studies that deepened my appreciation of the humanities, and has been for me the gateway to meditation and other forms of spiritual practice.  Nearing the end of my career as a mathematics professor, I aim to devote more time to passing on this Yoga as freely as possible, following the example of Deirdre, Chris and Kim, each of whom taught me for free, out of love for their own disciplines.
+Currently, I am working for the same company, but as an external consultant.
 
-### Keeping It Simple
-
-Although not designed specifically as a form of exercise, Aṣṭāṅga is nonetheless a relatively vigorous form of Yoga, and for a time during its transmission to Western countries it acquired an undeserved reputation as a rigid and overly-demanding activity, to be restricted to the most "talented" practitioners only.  But in fact Aṣṭāṅga is meant to be moulded according to the needs of the practitioner:  not the other way around!  So feel free to ignore the elaborate postures in the images here:  they exist mostly to give ambitious young folks something to fool around with!  Whether one's postures are "elementary" or "advanced", real Yoga lies in *the association of breath with movement*---movement that is as simple and undemanding as it needs to be.
-
-## Note on Lineage
-
-<img class="image-right-250" src="/images/galavasana.jpg">My most extensive formal training in Aṣṭāṅga is from <a href="https://ashtangayogastudio.com/" target="_blank">Andrew Eppler</a> in the form of a 200-hour Intensive Training, in virtue of which I am <a href="https://www.yogaalliance.org/TeacherPublicProfile?tid=326005" target="_blank">registered</a> with the Yoga Alliance as a teacher.  I continue to study with Andrew, residing periodically at his shala in Oklahoma.
-
-Andrew is the primary American student of BNS Iyengar of Mysore, India, who in turn was a student of both Patabhi Jois and Jois' own teacher, Sri Tirumalai Krishnamacharya.  It was Krishnamacharya who developed the Aṣṭāṅga Vinyāsa Yoga system while teaching at the Mysore Palace School (1931-1948).
+<img class="profile-image-bottom" src="/images/yo4.jpg" alt="Work at Petromil Gas">
